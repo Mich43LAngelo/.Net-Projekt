@@ -1,1 +1,19 @@
-2020-05-08 12:37:52,730 [6] INFO  - Wyœwietlenie strony g³ównej
+2020-05-14 10:16:44,768 [5] INFO  - Wyœwietlenie strony g³ównej
+2020-05-14 10:16:49,489 [5] INFO  - Wyœwietlenie listy u¿ytkowników
+2020-05-14 10:16:55,873 [7] INFO  - Wyœwietlenie wykresów dla u¿ytkownika o id = 28
+2020-05-14 10:16:55,956 [5] INFO  - Wywo³anie utworzenia wykresu wska¿nika BMI dla u¿ytkownika o id = 28
+2020-05-14 10:16:55,959 [5] INFO  - Pobrano pomiary dla u¿ytkownika o id = 28 z bazy danych
+2020-05-14 10:16:55,963 [6] INFO  - Wywo³anie utworzenia wykresu wagi dla u¿ytkownika o id = 28
+2020-05-14 10:16:55,967 [6] INFO  - Pobrano pomiary dla u¿ytkownika o id = 28 z bazy danych
+2020-05-14 10:17:03,139 [5] INFO  - Wyœwietlenie listy u¿ytkowników
+2020-05-14 10:17:23,260 [5] INFO  - Wywo³anie strony z pomiarami u¿ytkownika o id = 25
+2020-05-14 10:17:23,311 [8] INFO  - Znaleziono u¿ytkownika o id = 25
+2020-05-14 10:17:23,312 [8] INFO  - Znaleziono pomiary u¿ytkownika o id = 25
+2020-05-14 10:17:23,312 [8] INFO  - Wyœwietlenie listy pomiarów u¿ytkownika o id = 25
+2020-05-14 10:17:25,235 [7] INFO  - Wyœwietlenie listy u¿ytkowników
+2020-05-14 10:17:26,425 [5] INFO  - Wyœwietlenie wykresów dla u¿ytkownika o id = 25
+2020-05-14 10:17:26,481 [6] INFO  - Wywo³anie utworzenia wykresu wagi dla u¿ytkownika o id = 25
+2020-05-14 10:17:26,482 [6] INFO  - Pobrano pomiary dla u¿ytkownika o id = 25 z bazy danych
+2020-05-14 10:17:26,483 [7] INFO  - Wywo³anie utworzenia wykresu wska¿nika BMI dla u¿ytkownika o id = 25
+2020-05-14 10:17:26,485 [7] INFO  - Pobrano pomiary dla u¿ytkownika o id = 25 z bazy danych
+2020-05-14 10:17:43,111 [5] INFO  - Wyœwietlenie strony Kontakt
